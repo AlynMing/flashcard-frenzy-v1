@@ -8,7 +8,7 @@
 An Android flashcard app to help students study
 
 ### App Walk-though
-<img src="http://g.recordit.co/1nPRnUhq2Q.gif" width=200><br>
+
 
 ## Required User Stories
 - [x] User can create a card and still see their created card when the app is relaunched
