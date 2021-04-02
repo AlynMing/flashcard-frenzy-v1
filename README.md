@@ -4,7 +4,7 @@
 An Android flashcard app to help students study
 
 ### App Walk-though
-<img src="http://g.recordit.co/UykPhg2Qey.gif" width=200><br>
+
 
 ## Required User Stories
 - [x] User sees a transition animation when going from the main screen to the add card screen.
